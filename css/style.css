@@ -271,7 +271,8 @@ body {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  background: #gray;
+  background: #fff;
+  color: #fff;
   font-size: calc(12px + 2 * ((100vw - 320px) / 880));
   text-transform: uppercase;
   font-weight: 600;
