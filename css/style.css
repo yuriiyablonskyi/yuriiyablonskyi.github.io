@@ -432,7 +432,7 @@ body {
     width: 60%;
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     flex-direction: column;
     background: #0B0B0C;
     margin-top: 70px;
