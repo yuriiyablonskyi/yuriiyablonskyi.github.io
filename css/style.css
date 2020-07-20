@@ -3,6 +3,7 @@ body::-webkit-scrollbar {
 }
 
 body {
+  overflow-x: hidden;
   font-family: "Raleway";
   color: #fff;
 }
